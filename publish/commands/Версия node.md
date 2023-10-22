@@ -1,0 +1,2 @@
+nvm list
+nvm use
